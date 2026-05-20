@@ -7,7 +7,7 @@ a simple desktop calculator built in C with  GTK 3 (GTK 4 is availaible too )
 
 ## What does it do ? 
 
-- Basic arithmetic- Basic arithmetic operations: addition, subtraction, multiplication, division
+- Basic arithmetic operations: addition, subtraction, multiplication, division
 - Power and modulo operations
 - Square root and inverse operations
 - Clear and backspace buttons
@@ -34,5 +34,6 @@ sudo apt install build-essential pkg-config libgtk-3-dev pulseaudio-utils
 ## Run
 
 ```bash
+make
 ./calculator
 ```
