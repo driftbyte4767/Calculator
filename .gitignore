@@ -1,0 +1,5 @@
+.vscode/
+calculator
+calculator.exe
+*.o
+*.out
